@@ -1,0 +1,3 @@
+apple-contacts-cleaner — Interactive macOS/iCloud Contacts cleanup tool
+
+A Python utility for managing macOS/iCloud Contacts through the Contacts.app framework. Provides interactive delete, rename, diagnose, and snapshot modes for cleaning up contacts safely with batch confirmation.
